@@ -18,7 +18,7 @@ body {
 .qr_code {
     width: 17em;
     height: 100%;
-    height: 30em;
+    height: 28em;
     background-color: hsl(0, 0%, 100%);
     display: flex;
     flex-direction: column;
@@ -37,4 +37,5 @@ body {
 .qr_code p {
     color: hsl(216, 15%, 48%);
     font-size: 15px;
+    padding: 10px;
 }
